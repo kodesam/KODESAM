@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KODESAM
+- 👋 Hi, I’m @kodesam
 - 👀 I’m interested in ...CKA,Kubernetes, docker
 - 🌱 I’m CKA Certified, Oracle Certified Architect, Telcom Domains Experinces
 - 💞️ I’m looking to collaborate on K8s deployment projects
