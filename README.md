@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kodesam
-- 👀 I’m interested in ...CKA,Kubernetes, docker
-- 🌱 I’m CKA Certified, Oracle Certified Architect, Telcom Domains Experinces
-- 💞️ I’m looking to collaborate on K8s deployment projects
+- 👀 I’m interested in ...CKA,Kubernetes, docker,Openshift, Generative AI
+- 🌱 I’m CKA Certified, Oracle Certified Architect, Telcom Domains Experinces, Openshift Certified
+- 💞️ I’m looking to collaborate on K8s deployment projects, OpenInfra Projects
 - 📫 How to reach me ...{s.aamir.mail@gmail.com}
 
 
