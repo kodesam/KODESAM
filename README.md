@@ -3,7 +3,7 @@
 - 🌱 I’m CKA Certified, Oracle Certified Architect, Telcom Domains Experinces
 - 💞️ I’m looking to collaborate on K8s deployment projects
 - 📫 How to reach me ...{s.aamir.mail@gmail.com}
-- <img width="230" alt="Screen Shot 2022-05-09 at 6 53 04 AM" src="https://user-images.githubusercontent.com/81068983/167332784-730a03bf-10be-4349-8546-a8e7762cf1ec.png">
+
 
 <!---
 KODESAM/KODESAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
