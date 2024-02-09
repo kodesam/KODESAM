@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Project Name</h1>
 
 <p align="center">
-  <img src="project-logo.png" alt="Project Logo">
+  <img src="ai.avif" alt="Project Logo">
 </p>
 
 <p align="center">
