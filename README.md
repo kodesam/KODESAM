@@ -49,7 +49,7 @@ Describe how to install your project in this section.
 $ git clone https://github.com/your-username/your-repo.git
 $ cd your-repo
 # Follow additional installation steps if any
-
+```
 Usage
 Provide instructions or code examples on how to use your project. You can include screenshots or GIFs to visualize the usage.
 
@@ -70,5 +70,5 @@ This project is licensed under the MIT License.
 Acknowledgements
 Mention any individuals, organizations, or resources that you'd like to acknowledge for their contributions or assistance in this project.
 
-<footer align="center"> <strong>Find me on</strong><br> LinkedIn: [Your Name](https://www.linkedin.com/in/your-name)<br> Twitter: [@yourhandle](https://twitter.com/yourhandle) </footer> ```
+<footer align="center"> <strong>Find me on</strong><br> LinkedIn: [Your Name](https://www.linkedin.com/in/your-name)<br> Twitter: [@yourhandle](https://twitter.com/yourhandle) </footer> 
 You can save the above content in a README.md file in your GitHub repository. Make sure to update the placeholders with actual content, including relevant links, images, and contact information.
