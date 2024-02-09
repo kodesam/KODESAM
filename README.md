@@ -33,8 +33,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
-  <strong>Short project description in one line</strong><br>
-  Additional project description with more details.
+  <strong></strong><br>
+  
 </p>
 
 ## Table of Contents
@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Demo
 
-Check out our demo at [example.com](https://example.com).
+Check out our demo at [[example.com](https://example.com).](https://molecule-icon-generator-s5vjqsumrb.streamlit.app/)
 
 ## Installation
 
