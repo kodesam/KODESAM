@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @kodesam
-- 👀 I’m interested in ...CKA,Kubernetes, docker,Openshift, Generative AI,OpenAI development in Infrastructure
-- 🌱 I’m CKA Certified, Oracle Certified Architect, Telcom Domains Experinces, Openshift Certified
-- 💞️ I’m looking to collaborate on K8s deployment projects, OpenInfra Projects,openAI Projects
-- 📫 How to reach me ...{s.aamir.mail@gmail.com}
+
 
 
 <!---
@@ -30,7 +26,7 @@ You can click the Preview link to take a look at your changes.
                                #############################
 
 
-<h1 align="center">Project Name</h1>
+<h1 align="center">KODESAM</h1>
 
 <p align="center">
   <img src="ai.avif" alt="Project Logo">
@@ -53,7 +49,11 @@ You can click the Preview link to take a look at your changes.
 
 ## Features
 
-- List some key features of your project here.
+ - 👋 Hi, I’m @kodesam
+- 👀 I’m interested in ...CKA,Kubernetes, docker,Openshift, Generative AI,OpenAI development in Infrastructure
+- 🌱 I’m CKA Certified, Oracle Certified Architect, Telcom Domains Experinces, Openshift Certified
+- 💞️ I’m looking to collaborate on K8s deployment projects, OpenInfra Projects,openAI Projects
+- 📫 How to reach me ...{s.aamir.mail@gmail.com}
 
 ## Demo
 
