@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Demo
 
-Check out our demo at [[example.com](https://example.com).](https://molecule-icon-generator-s5vjqsumrb.streamlit.app/)
+Check out our demo at [[example.com](https://example.com).]([https://molecule-icon-generator-s5vjqsumrb.streamlit.app/](https://i-runbook-ai-oi.streamlit.app/))
 
 ## Installation
 
