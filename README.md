@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on K8s deployment projects, OpenInfra Projects,openAI Projects
 - 📫 How to reach me ...{s.aamir.mail@gmail.com}
 
-## Demo for Script AI using OpenAI 
+## Demo for Script AI Powered by OpenAI 
 ![script-ai](https://github.com/kodesam/KODESAM/assets/81068983/77615c47-569f-4352-a603-68486cd75141)
 
 Check out our demo at (https://i-runbook-ai-oi.streamlit.app/)
