@@ -45,7 +45,7 @@ Check out our demo at [[example.com](https://example.com).](https://molecule-ico
 
 Describe how to install your project in this section.
 
-```bash
+```python
 $ git clone https://github.com/your-username/your-repo.git
 $ cd your-repo
 # Follow additional installation steps if any
