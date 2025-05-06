@@ -36,6 +36,8 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ...{s.aamir.mail@gmail.com}
 
 ## Demo for Script AI Powered by OpenAI 
+<img width="932" alt="image" src="https://github.com/user-attachments/assets/5e99da9a-ba9c-45b5-b2de-c92ca3dd0439" />
+
 ![script-ai](https://github.com/kodesam/KODESAM/assets/81068983/77615c47-569f-4352-a603-68486cd75141)
 
 Check out our demo at (https://i-runbook-ai-oi.streamlit.app/)
