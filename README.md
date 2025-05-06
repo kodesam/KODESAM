@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on K8s deployment projects, OpenInfra Projects,openAI Projects
 - 📫 How to reach me ...{s.aamir.mail@gmail.com}
 
-## Demo for Configurator AI Powered by OpenAzure AI 
+## Demo for Configurator AI Powered by Azure OpenAI 
 <img width="932" alt="image" src="https://github.com/user-attachments/assets/5e99da9a-ba9c-45b5-b2de-c92ca3dd0439" />
 
 ## Demo for Script AI Powered by OpenAI 
