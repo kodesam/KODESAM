@@ -43,6 +43,8 @@ You can click the Preview link to take a look at your changes.
 
 Check out our demo at (https://i-runbook-ai-oi.streamlit.app/)
 
+https://kodesam.github.io/ai-nexsus-dashboard/
+
 ## Installation
 
 Describe how to install your project in this section.
