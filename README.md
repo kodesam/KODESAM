@@ -41,9 +41,12 @@ You can click the Preview link to take a look at your changes.
 ## Demo for Script AI Powered by OpenAI 
 <img width="932" alt="image" src=https://github.com/kodesam/KODESAM/assets/81068983/77615c47-569f-4352-a603-68486cd75141 />
 
-Check out our demo at (https://i-runbook-ai-oi.streamlit.app/)
+Check out our demo at [(https://i-runbook-ai-oi.streamlit.app/)]
 
-https://kodesam.github.io/ai-nexsus-dashboard/
+Check out our demo at [(https://kodesam.github.io/ai-nexsus-dashboard/)]
+
+<img width="1867" height="959" alt="image" src="https://github.com/user-attachments/assets/53d2c5f5-fc62-4b30-b435-66ecfd85227b" />
+
 
 ## Installation
 
